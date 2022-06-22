@@ -29,3 +29,9 @@ we have to use ?text= and type the message that you want to send <br>
 if you want to space between words, you have to use %20 
 
       <a href="tel:+94 711758851">Without Message</a>
+      
+about this code part<br>
+
+      tel:+94 711758851
+      
+I use this, and you can use any mobile number as +94 711758851 this is my mobile number
