@@ -19,4 +19,8 @@ about this code part<br>
 use your mobile whatsapp number as 94711758851 this is my Whatsapp Number
 
       <a href="https://wa.me/94711758851?text=%20More%20information%20about%20e-bill%20system">Without Message</a>
+      
+about this code part<br>
+
+      https://wa.me/94711758851?text=%20More%20information%20about%20e-bill%20system"
       <a href="tel:+94 711758851">Without Message</a>
