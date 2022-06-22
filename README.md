@@ -44,3 +44,12 @@ about this code part<br>
       tel:+94 711758851
       
 I use this, and you can use any mobile number as +94 711758851 this is my mobile number
+
+
+******************************************************
+
+
+<br><br>
+
+DEVELOPED BY JEHANKANDY
+22 June 2022
