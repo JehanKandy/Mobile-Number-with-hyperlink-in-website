@@ -55,7 +55,9 @@ I satrted a Discussion for ask any qusetion about this <br>
 and share ideas with others 
 <br><br>
 
-go to above 
+go to above repository's menu bar and click Discussion button<br>
+
+Good luck Everyone<br><br>
 
 
 
