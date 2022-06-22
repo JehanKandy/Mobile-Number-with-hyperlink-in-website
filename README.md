@@ -52,6 +52,11 @@ I use this, and you can use any mobile number as +94 711758851 this is my mobile
 <br><br>
 
 I satrted a Discussion for ask any qusetion about this <br>
+and share ideas with others 
+<br><br>
+
+go to above 
+
 
 
 DEVELOPED BY JEHANKANDY<br>
