@@ -10,7 +10,7 @@ follow up my following code to get about this<br>
 # code explain
 
 
-      <a href="">Without Message</a>
+      <a href="https://wa.me/94711758851">Without Message</a>
 
 
       <a href="">Without Message</a>
